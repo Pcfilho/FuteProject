@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FuteApp</string>
+    <string name="nome">Nome</string>
+    <string name="status">Status:</string>
+    <string name="andamento">Andamento</string>
+    <string name="tipo">Tipo:</string>
+    <string name="mata_mata">Mata-Mata</string>
+    <string name="error_camp">Não foi possível carregar o campeonato.</string>
+    <string name="ErrorTabela">Não foi possível carregar a tabela.</string>
+    <string name="semTabela">Esse tipo de Campeonato não possui tabela.</string>
+    <string name="pontos">Pontos: 0</string>
+    <string name="vitorias">Vitorias: 0</string>
+    <string name="empates">Empates: 0</string>
+    <string name="derrotas">Derrotas: 0</string>
+    <string name="jogos">Jogos: 0</string>
+    <string name="gols_pro">Gols Pro: 0</string>
+    <string name="gols_contra">Gols Contra: 0</string>
+    <string name="saldo_de_gols">Saldo de Gols: 0</string>
+    <string name="posicao">Posição 0</string>
+
+</resources>
