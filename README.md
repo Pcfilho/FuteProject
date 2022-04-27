@@ -30,7 +30,7 @@ Um aplicativo android desenvolvido em Kotlin que disponibiliza listas e tabelas 
 <p align="center">
    <img src="toReadMe/Assets/Tabela.gif">
 </p>
-
+    Obs: A qualidade do vídeo está parcialmente comprometida devida a falta de uma boa placa de video no meu computador durante a gravação das telas, assim pode ter uma sensação de lentidão, porém o aplicativo por si só está muito perfomatico.
 
 ## Screenshots
 <p align="center">
