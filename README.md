@@ -23,8 +23,8 @@ Ao consumir a Api acima, através do cadastro de um plano gratuito, foi somente 
 
 
 ## Demonstração
-    O aplicativo possui duas telas, uma contendo a lista dos campeonatos disponíveis, e outra, após selecionar um campeonato, 
-    contendo a tabela de pontos dele, se o mesmo possuir uma tabela de pontuação.
+    O aplicativo possui duas telas, uma contendo a lista dos campeonatos disponíveis, 
+    e outra, após selecionar um campeonato, contendo a tabela de pontos dele, se o mesmo possuir uma tabela de pontuação.
     
 ### Lista de campeonatos
 <p align="center">
