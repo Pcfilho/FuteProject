@@ -1,4 +1,4 @@
-# FuteProject
+# FuteProject ⚽
 Um aplicativo android desenvolvido em Kotlin que disponibiliza listas e tabelas de campeonatos de futebol através do consumo de api.
 
 
