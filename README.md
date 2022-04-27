@@ -37,7 +37,7 @@ Ao consumir a Api acima, através do cadastro de um plano gratuito, foi somente 
 <p align="center">
    <img src="toReadMe/Assets/Tabela.gif">
 </p>
-    Obs: A qualidade do vídeo está parcialmente comprometida devida a falta de uma boa placa de video no meu computador durante a gravação das telas, assim pode ter    uma sensação de lentidão, porém o aplicativo por si só está muito perfomatico.
+    Obs: A qualidade do vídeo está parcialmente comprometida devida a falta de uma boa placa de video no meu computador durante a gravação das telas, assim pode ter    uma sensação de lentidão, porém o aplicativo por si só está funcionando em perfeito estado e de forma rápida, dependendo somente da velocidade de internet do usuário.
 
 ## Screenshots
 <p align="center">
