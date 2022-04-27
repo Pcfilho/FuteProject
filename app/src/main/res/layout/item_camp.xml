@@ -54,7 +54,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/tvItemCampStringStatus"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -78,11 +78,11 @@
             android:textStyle="bold"
             android:visibility="invisible"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/textView"
+            app:layout_constraintStart_toEndOf="@+id/tvItemCampStringStatus"
             app:layout_constraintTop_toBottomOf="@+id/tvNomeCamp" />
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/tvItemCampStringTipo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -93,7 +93,7 @@
             android:visibility="invisible"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toEndOf="@+id/imgCamp"
-            app:layout_constraintTop_toBottomOf="@+id/textView" />
+            app:layout_constraintTop_toBottomOf="@+id/tvItemCampStringStatus" />
 
         <TextView
             android:id="@+id/tvTipoCamp"
@@ -110,7 +110,7 @@
             android:visibility="invisible"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/textView1"
+            app:layout_constraintStart_toEndOf="@+id/tvItemCampStringTipo"
             app:layout_constraintTop_toBottomOf="@+id/tvStatutsCamp" />
 
         <ProgressBar

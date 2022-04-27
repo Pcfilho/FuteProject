@@ -51,6 +51,8 @@ class CampAdapter(
         private val tvNome: TextView = itemView.findViewById(R.id.tvNomeCamp)
         private val tvStatus: TextView = itemView.findViewById(R.id.tvStatutsCamp)
         private val tvTipo: TextView = itemView.findViewById(R.id.tvTipoCamp)
+        private val tvStringTipo: TextView = itemView.findViewById(R.id.tvItemCampStringStatus)
+        private val tvStringStatus: TextView = itemView.findViewById(R.id.tvItemCampStringTipo)
         private val progressImage: ProgressBar = itemView.findViewById(R.id.progressItemCampBarImage)
         private val progressItem: ProgressBar = itemView.findViewById(R.id.progressItemCampBar)
         private val imgLogo: ImageView = itemView.findViewById(R.id.imgCamp)
@@ -68,6 +70,8 @@ class CampAdapter(
             tvNome.visibility = View.VISIBLE
             tvStatus.visibility = View.VISIBLE
             tvTipo.visibility = View.VISIBLE
+            tvStringTipo.visibility = View.VISIBLE
+            tvStringStatus.visibility = View.VISIBLE
 
 
             val url = campModel.logo
