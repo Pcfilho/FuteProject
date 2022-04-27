@@ -20,4 +20,20 @@ Um aplicativo android desenvolvido em Kotlin que disponibiliza listas e tabelas 
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+### Lista de campeonatos
+<p align="center">
+    <img src="toReadMe/Assets/Lista.gif"> 
+</p>
+
+
+### Tabela de um campeonato
+<p align="center">
+   <img src="toReadMe/Assets/Tabela.gif">
+</p>
+
+
+## Screenshots
+<p align="center">
+   <img src="toReadMe/Assets/ListaCamps.png">
+   <img src="toReadMe/Assets/TabelaCamp.png">
+</p>
